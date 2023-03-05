@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">multimedia</string>
+
+    <string-array name="playlist">
+        <item>Hasbulla</item>
+        <item>Acapulco</item>
+        <item>Cruda</item>
+        <item>Fuego</item>
+        <item>Medio Metro</item>
+    </string-array>
+</resources>
